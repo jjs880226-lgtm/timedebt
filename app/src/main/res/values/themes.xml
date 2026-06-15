@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.MyApplication1" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#EAF1FF</item>
+        <item name="android:navigationBarColor">#F6F8FC</item>
+    </style>
+
+    <style name="Theme.MyApplication1.Focus" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>

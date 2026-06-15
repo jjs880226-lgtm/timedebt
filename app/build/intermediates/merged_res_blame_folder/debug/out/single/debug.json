@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_focus_chip.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_focus_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_bg_app_gradient.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\bg_app_gradient.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_debt_card_safe.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_debt_card_safe.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_bg_debt_card.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\bg_debt_card.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_focus_screen.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_focus_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_bg_status.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\bg_status.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_debt_card_critical.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_debt_card_critical.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/layout_activity_focus.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/layout/activity_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-merged_res-4:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\j5268\\.gradle\\daemon\\8.2\\com.example.myapplication1.app-main-6:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_debt_card_warning.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_debt_card_warning.xml"
+    },
+    {
+        "merged": "com.example.myapplication1.app-merged_res-4:/drawable_bg_debt_card_caution.xml.flat",
+        "source": "com.example.myapplication1.app-main-6:/drawable/bg_debt_card_caution.xml"
+    }
+]
