@@ -1,4 +1,4 @@
-# TimeDept ⏱️
+# TimeDebt ⏱️
 
 시간 빚(Time Debt) 개념을 활용한 집중 관리 Android 애플리케이션입니다.
 
